@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  page-footer: 
+    right: 
+      - icon: github
+        href: https://github.com/tuomaseerola/
+  title: "ATMS"
+  repo-url: https://github.com/tuomaseerola/ATMS/
+  site-url: "https://tuomaseerola.github.io/ATMS/"
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+      - icon: github
+        href: https://github.com/tuomaseerola/ATMS/
+        aria-label: GitHub
+  page-navigation: true
+  back-to-top-navigation: true
+format:
+  html:
+    theme: pulse # materia # lumen, pulse, yeti, zephyr
+    css: styles.css
+    toc: false
+    page-layout: full
