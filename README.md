@@ -5,20 +5,20 @@
 _By [Tuomas Eerola](https://www.durham.ac.uk/staff/tuomas-eerola/), Durham University, Music Department, 2025._
 
 
-This repository contains materials for teaching of **Advanced Topics in Music Psychology**. Links with special icons take you to **Colab Notebooks**![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}, which contain interactive notebooks that you can use to explore various topics and techniques. 
+This repository contains materials for teaching of **Advanced Topics in Music Psychology**. Links with special icons take you to **Colab Notebooks**, which contain interactive notebooks that you can use to explore various topics and techniques. 
 
 Some of the code is based on [Music and Science: A Guide to Empirical Research - online materials](https://tuomaseerola.github.io/emr/)
 
 
-- [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
-- [Musical feature extraction using batch processing - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb) 
+- [Musical feature extraction using batch processing - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb) 
 - [Music to emotion live demo](https://huggingface.co/amaai-lab/music2emo)
 
 ### Corpus analyses
 
-- [Using features to build emotion prediction model - R](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/build_regression_model.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
-- [Corpus analysis of key - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_analysis_tutorial_key.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
-- [Structure discovery Examples - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/structure_discovery.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Using features to build emotion prediction model - R](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/build_regression_model.ipynb) 
+- [Corpus analysis of key - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_analysis_tutorial_key.ipynb) 
+- [Structure discovery Examples - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/structure_discovery.ipynb) 
 
 ### Learning resources about Python, audio and music
 
