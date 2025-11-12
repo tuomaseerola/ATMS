@@ -18,7 +18,7 @@ Some of the code is based on [Music and Science: A Guide to Empirical Research -
 ### Corpus analyses
 
 - [Genre classification from audio](https://github.com/tuomaseerola/audio/blob/master/audio_corpus_analysis_tutorial.ipynb)
-- [Corpus analysis of key - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_analysis_tutorial_key.ipynb) 
+- [Corpus analysis of key from audio](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_analysis_tutorial_key.ipynb) 
 
 ### Learning resources about Python, audio and music
 
