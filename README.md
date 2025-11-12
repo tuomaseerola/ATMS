@@ -12,11 +12,11 @@ Some of the code is based on [Music and Science: A Guide to Empirical Research -
 
 - [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb) 
 - [Musical feature extraction using batch processing - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb) 
-- [Music to emotion live demo](https://huggingface.co/amaai-lab/music2emo)
 
 ### Corpus analyses
 
-- [Using features to build emotion prediction model - R](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/build_regression_model.ipynb) 
+- [Using features to build emotion prediction model - R](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/build_regression_model.ipynb)
+- [Genre classification from audio]([https://colab.research.google.com/github/](https://github.com/tuomaseerola/audio/blob/master/audio_corpus_analysis_tutorial.ipynb)
 - [Corpus analysis of key - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_analysis_tutorial_key.ipynb) 
 - [Structure discovery Examples - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/structure_discovery.ipynb) 
 
