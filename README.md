@@ -26,5 +26,13 @@ Some of the code is based on [Music and Science: A Guide to Empirical Research -
 - [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
 - [Librosa package for music and audio analysis](https://librosa.org/doc/main/index.html)
 
+## Statistics (demo data)
+
+- [lecture_memory_example_empty.jasp](lecture_memory_example_empty.jasp)
+- [soundtrack.jasp](soundtrack.jasp)
+- [grimaud_2022_long_all_exp1exp2.jasp](grimaud_2022_long_all_exp1exp2.jasp)
+- [grimaud_2022_long_all_exp1exp2.csv](grimaud_2022_long_all_exp1exp2.csv)
+  
+
 _Last update 24/09/2025 by TE_
 
